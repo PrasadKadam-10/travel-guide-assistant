@@ -1,0 +1,34 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore IDE/editor settings
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Python egg info
+*.egg
+*.egg-info
+dist/
+build/
+
+# Ignore pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore temporary files
+*.tmp
+*.temp
